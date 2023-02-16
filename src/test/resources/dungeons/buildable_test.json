@@ -1,0 +1,56 @@
+{
+  "entities": [
+    {
+      "type": "player",
+      "x": 2,
+      "y": 2
+    },
+    {
+      "type": "wood",
+      "x": 2,
+      "y": 3
+    },
+    {
+      "type": "wood",
+      "x": 3,
+      "y": 3
+    },
+    {
+      "type": "arrow",
+      "x": 2,
+      "y": 4
+    },
+    {
+      "type": "arrow",
+      "x": 2,
+      "y": 5
+    },
+    {
+      "type": "arrow",
+      "x": 3,
+      "y": 5
+    },
+    {
+      "type": "key",
+      "key": 34,
+      "x": 4,
+      "y": 4
+    },
+    {
+      "type": "treasure",
+      "x": 4,
+      "y": 5
+    },
+    {
+      "type": "treasure",
+      "x": 4,
+      "y": 6
+    },
+    {
+      "type": "exit",
+      "x": 8,
+      "y": 8
+    }
+  ],
+  "goal-condition": { "goal": "exit" }
+}

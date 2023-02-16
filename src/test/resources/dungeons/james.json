@@ -1,0 +1,47 @@
+{
+    "entities": [
+        {
+            "type" : "player",
+            "x" : 10,
+            "y" : 10
+        },{
+            "type" : "james",
+            "x" : 1,
+            "y" : 1
+        },{
+            "type" : "zombie_toast",
+            "x" : 1,
+            "y" : 0
+        },{
+            "type" : "zombie_toast",
+            "x" : 2,
+            "y" : 0
+        }, {
+            "type" : "zombie_toast",
+            "x" : 0,
+            "y" : 0
+        }, {
+            "type": "zombie_toast",
+            "x": 0,
+            "y": 1
+        }, {
+            "type": "zombie_toast",
+            "x": 2,
+            "y": 1
+        }, {
+            "type": "zombie_toast",
+            "x": 0,
+            "y": 2
+        }, {
+            "type": "zombie_toast",
+            "x": 1,
+            "y": 2
+        }, {
+            "type": "zombie_toast",
+            "x": 2,
+            "y": 2
+        }
+        
+    ],
+    "goal-condition": {"goal": "exit"}
+}

@@ -1,0 +1,49 @@
+{
+    "entities": [
+        {
+            "type": "player",
+            "x": 1,
+            "y": 1
+        },
+        {
+            "type": "time_turner",
+            "x": 1,
+            "y": 2
+        },
+        {
+            "type": "sun_stone",
+            "x": 1,
+            "y": 3
+        },
+        {
+            "type": "sun_stone",
+            "x": 2,
+            "y": 3
+        },
+        {
+            "type": "wood",
+            "x": 2,
+            "y": 2
+        },
+        {
+            "type": "wood",
+            "x": 3,
+            "y": 2
+        },
+        {
+            "type": "key",
+            "x": 2,
+            "y": 1,
+            "key": 1
+        },
+        {
+            "type": "door",
+            "x": 1,
+            "y": 4,
+            "key": 1
+        }
+    ],
+    "goal-condition": {
+        "goal": "exit"
+    }
+}

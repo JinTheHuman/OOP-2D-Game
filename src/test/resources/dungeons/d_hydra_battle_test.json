@@ -1,0 +1,18 @@
+
+{
+    "entities": [
+      {
+        "x": 2,
+        "y": 2,
+        "type": "player"
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "type": "hydra"
+      }
+    ],
+    "goal-condition": {
+      "goal": "exit"
+    }
+  }

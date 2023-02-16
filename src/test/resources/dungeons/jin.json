@@ -1,0 +1,47 @@
+{
+    "entities": [
+        {
+            "type" : "player",
+            "x" : 10,
+            "y" : 10
+        },{
+            "type" : "jin",
+            "x" : 1,
+            "y" : 1
+        },{
+            "type" : "spider",
+            "x" : 4,
+            "y" : 1
+        },{
+            "type" : "spider",
+            "x" : -2,
+            "y" : 1
+        }, {
+            "type" : "spider",
+            "x" : 1,
+            "y" : -2
+        }, {
+            "type": "spider",
+            "x": 1,
+            "y": 4
+        }, {
+            "type": "boulder",
+            "x": 1,
+            "y": 3
+        }, {
+            "type": "boulder",
+            "x": 1,
+            "y": -3
+        }, {
+            "type": "boulder",
+            "x": -2,
+            "y": 0
+        }, {
+            "type": "boulder",
+            "x": 4,
+            "y": 0
+        }
+        
+    ],
+    "goal-condition": {"goal": "exit"}
+}
